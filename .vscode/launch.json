@@ -2,6 +2,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "compare1",
+            "request": "launch",
+            "mainClass": "compare1",
+            "projectName": "coding_a102caa0"
+        },
+        {
+            "type": "java",
+            "name": "Demo2",
+            "request": "launch",
+            "mainClass": "Demo2",
+            "projectName": "coding_a102caa0"
+        },
+        {
+            "type": "java",
+            "name": "Demo3",
+            "request": "launch",
+            "mainClass": "Demo3",
+            "projectName": "coding_a102caa0"
+        },
+        {
+            "type": "java",
+            "name": "Demo4",
+            "request": "launch",
+            "mainClass": "Demo4",
+            "projectName": "coding_a102caa0"
+        },
+        {
+            "type": "java",
+            "name": "Demo1",
+            "request": "launch",
+            "mainClass": "Demo1",
+            "projectName": "coding_a102caa0"
+        },
+        {
+            "type": "java",
+            "name": "arr2",
+            "request": "launch",
+            "mainClass": "arr2",
+            "projectName": "coding_a102caa0"
+        },
+        {
+            "type": "java",
+            "name": "ArraySum",
+            "request": "launch",
+            "mainClass": "ArraySum",
+            "projectName": "coding_a102caa0"
+        },
+        {
+            "type": "java",
+            "name": "Arr",
+            "request": "launch",
+            "mainClass": "Arr",
+            "projectName": "coding_a102caa0"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "coding_a102caa0"
+        },
+        {
+            "type": "java",
             "name": "Demo",
             "request": "launch",
             "mainClass": "Demo",
